@@ -44,20 +44,11 @@
 
 
 
-<!--  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple)](https://github.com/debasish-konwar/github-readme-stats) -->
 
-<!-- <a href="https://github.com/debasish-konwar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/debasish-konwar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple" />
-</a> -->
 
 <div align="center" width=100% >
 
-  | <img height="150" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple"> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple">
+   <img height="150" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple">
   </div>
 
 
