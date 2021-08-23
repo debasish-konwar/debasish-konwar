@@ -56,9 +56,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=radical)
 
-  <img align="left" alt="Debasish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&hide_border=true" />
 </details>
 
 <!-- [website]: https://codeSTACKr.com -->
