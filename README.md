@@ -1,4 +1,4 @@
-### Hi there, I'm Debasish - aka [debasish-konwar]👋
+### Hi there, I'm Debasish👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -7,8 +7,8 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning JS 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Make some great projects and contribute to open source.
+- 👯 I’m looking to collaborate with other devs.
+- 🥅 2021 Goals: Make some  projects and contribute to open source.
 - ⚡ Fun fact: I love to watch movies/series/anime.
 ### Connect with me:
 
@@ -42,24 +42,18 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+
+<!--  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple)
   
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple)](https://github.com/debasish-konwar/github-readme-stats) -->
 
-</details>
-
-
-  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple)](https://github.com/debasish-konwar/github-readme-stats)
-
+<a href="https://github.com/debasish-konwar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/debasish-konwar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple)](https://github.com/debasish-konwar/github-readme-stats" />
+</a>
 
 
 
