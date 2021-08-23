@@ -74,6 +74,6 @@
 
 [twitter]: https://twitter.com/dkonwar__
 [instagram]: https://www.instagram.com/d.konwar__/
-[linkedin]: www.linkedin.com/in/debasishkonwar/
+[linkedin]: https://www.linkedin.com/in/debasish-konwar-84b3131bb/
 [facebook]: https://www.facebook.com/debasish.konwar.25/
 
