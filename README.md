@@ -57,6 +57,9 @@
 
 
   ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact)](https://github.com/debasish-konwar/github-readme-stats)
+
 
 
 
