@@ -52,7 +52,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/debasish-konwar/github-readme-stats">
-  <img align="right-center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish-konwar&layout=compact&theme=midnight-purple" />
 </a>
 
 
