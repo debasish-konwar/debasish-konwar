@@ -56,7 +56,7 @@
 </details>
 
 
-  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=dark)
+  ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasish-konwar&show_icons=true&theme=midnight-purple)
 
 
 
